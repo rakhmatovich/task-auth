@@ -53,7 +53,7 @@ task-auth/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rakhmatovich/test-auth-react-vite.git
+git clone https://github.com/rakhmatovich/task-auth.git
 cd task-auth
 ```
 
